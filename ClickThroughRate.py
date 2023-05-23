@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import pandas as pd
 
 # Step 0
-data = pd.read_csv('advertising.csv')
+data = pd.read_csv('advertising.csv')# Find the csv file here https://raw.githubusercontent.com/amankharwal/Website-data/master/Advertising.csv
 print(data.head())
 
 # Step 1
